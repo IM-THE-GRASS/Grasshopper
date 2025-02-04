@@ -7,7 +7,6 @@ Needs:
 - Speed
 - <$300 
 
- Current total time: 5hrs
 
 
 
@@ -18,14 +17,16 @@ Needs:
 
 <div align="center">
   <h1>Day 1</h1>
-  <h3>Feb 02-03, 2024 - 4hrs</h3>
+  <h2>Feb 02-03, 2024</h2>
+  <h3>4hrs, 4hrs total</h3>
   <br>
 </div>
+<hr>
 
-
+## Overview of today:
 Today is my first day working on the printer, so I will be mainly focused on research & developing a basic parts list/BOM for the toolhead of the printer
 
-### update 1 :
+## update 1 :
 
 I discovered the Pico MMU, Rapido ACE UHF hotend & the Sherpa mini extruder today and started planning the basic toolhead of the printer
 I began to make a (sort of) BOM that mainly just logs all the prices & sources I found. 
