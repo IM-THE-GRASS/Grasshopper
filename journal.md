@@ -1,6 +1,9 @@
 Made by: @The Grass
+
 Repository link: https://github.com/IM-THE-GRASS/Grasshopper/
+
 Total hours so far: 8hrs
+
 
 Idea: My open-source, DIY 3D printer that aims to be <$300, fast and have multi-color capabilities
 (a knockoff bambu labs printer :P )
