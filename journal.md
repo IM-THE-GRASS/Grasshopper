@@ -59,7 +59,8 @@ Today was a lot more research to ensure the parts list were compatible with each
 
 ### Update 2: 
 After looking at a couple more options in terms of parts, I decided to start taking apart the Ender 3 to figure out exactly what i could be working with. After 3 hours of work I sorted most of the parts that were usable into a small pile. 
-![[images/ender3.png]]
+
+![ender 3 parts](images/ender3.png)
 
 this includes 
 - 1x screen (https://github.com/bustedlogic/DWIN_T5UIC1_LCD for driving it)
