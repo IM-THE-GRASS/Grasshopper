@@ -55,32 +55,14 @@ I began to make a (sort of) BOM that mainly just logs all the prices & sources I
 
 <hr>
 
-	overall total: 8hr
-	daily total : 4hr
+	overall total: 5hr
+	daily total : 1hr
 	research: 1hr
-	building: 3hr
 `
 
 ### Update 1:
-Today was a lot more research to ensure the parts list were compatible with each other before starting CAD. Turns out, there's a LOT of compatibility issues with this parts list I developed. First of all, the power supply I was planning to use is 330W which won't be enough for this current setup The PSU will be TBD until the rest of the parts are finished to ensure compatibility. Along with that, the Rapido ACE UHF is an impressive hotend but not nearly what it claims to be & even if it was 65mm<sup>3</sup>/s would be an outrageous flow rate for a Sherpa Mini. Instead the Grasshopper is going to use a Dragon HF hotend for extra community support and more [reasonable stats](https://www.reddit.com/r/voroncorexy/comments/o0cuxd/does_anyone_know_max_flow_rate_for_different_hot/) & [price](https://www.trianglelab.net/products/dragon-hotend?VariantsId=11396). Next, the stepper motors from the Ender 3 don't have enough force to enable the speed that the Grasshopper is projected to run at. Instead a 3 pack of motors with *questionable* quality but a great price can be found on [aliexpress](https://www.aliexpress.us/item/2255801033887365.html?spm=a2g0o.productlist.main.2.76d645af92nVLa&algo_pvid=b81d5402-f309-40b6-9f3b-66931c66e33a&algo_exp_id=b81d5402-f309-40b6-9f3b-66931c66e33a-1&pdp_npi=4%40dis%21USD%2132.09%2125.99%21%21%2132.09%2125.99%21%402103146c17387183294372792eb597%2110000015342053269%21sea%21US%214468387228%21X&curPageLogUid=UKCwPiWFbb8p&utparam-url=scene%3Asearch%7Cquery_from%3A&gatewayAdapt=glo2usa). 
+Today was more research to ensure the parts list were compatible with each other before starting CAD. Turns out, there's a LOT of compatibility issues with this parts list I developed. First of all, the power supply I was planning to use is 330W which won't be enough for this current setup The PSU will be TBD until the rest of the parts are finished to ensure compatibility. Along with that, the Rapido ACE UHF is an impressive hotend but not nearly what it claims to be & even if it was 65mm<sup>3</sup>/s would be an outrageous flow rate for a Sherpa Mini. Instead the Grasshopper is going to use a Dragon HF hotend for extra community support and more [reasonable stats](https://www.reddit.com/r/voroncorexy/comments/o0cuxd/does_anyone_know_max_flow_rate_for_different_hot/) & [price](https://www.trianglelab.net/products/dragon-hotend?VariantsId=11396). Next, the stepper motors from the Ender 3 don't have enough force to enable the speed that the Grasshopper is projected to run at. Instead a 3 pack of motors with *questionable* quality but a great price can be found on [aliexpress](https://www.aliexpress.us/item/2255801033887365.html?spm=a2g0o.productlist.main.2.76d645af92nVLa&algo_pvid=b81d5402-f309-40b6-9f3b-66931c66e33a&algo_exp_id=b81d5402-f309-40b6-9f3b-66931c66e33a-1&pdp_npi=4%40dis%21USD%2132.09%2125.99%21%21%2132.09%2125.99%21%402103146c17387183294372792eb597%2110000015342053269%21sea%21US%214468387228%21X&curPageLogUid=UKCwPiWFbb8p&utparam-url=scene%3Asearch%7Cquery_from%3A&gatewayAdapt=glo2usa). 
 
-### Update 2: 
-After looking at a couple more options in terms of parts, I decided to start taking apart the Ender 3 to figure out exactly what i could be working with. After 3 hours of work I sorted most of the parts that were usable into a small pile. 
-
-
-
-this includes 
-- 1x screen (https://github.com/bustedlogic/DWIN_T5UIC1_LCD for driving it)
-- 4x stepper motor (probably going to go unused due to the lack of power)
-- 1x mobo fan
-- 1x hotend fan
-- 1x blower style hotend fan
-- 1x heated print bed
-- 1x PSU (probably going to go unused due to the incompatibilities )
-- 4x 2020 metal extrusions
-- 1x base
-- 3x switches
-It's 1am right now while I'm writing this so I'll add the parts list tomorrow morning 
 
 
 
