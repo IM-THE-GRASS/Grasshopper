@@ -2,7 +2,7 @@ Made by: @The Grass
 
 Repository link: https://github.com/IM-THE-GRASS/Grasshopper/
 
-Total hours so far: 24hrs
+Total hours so far: 25hrs
 
 
 Idea: My open-source, DIY 3D printer that aims to be <$300, fast ~~and have multi-color capabilities~~ and be made in less than ~~2~~ 3 days
@@ -130,7 +130,7 @@ The path follows this basic idea:
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/abb2dfa7e547077a7952fed45b0ad16df1b02d14_image.png)
 
 <div align="center"><h1>Day 3</h1></div>
-<div align="center"><h3>Mar 28, 2025 - 8hrs</h3></div>
+<div align="center"><h3>Mar 28, 2025 - 9hrs</h3></div>
 
 <hr>
 
