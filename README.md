@@ -1,4 +1,5 @@
 # Grasshopper 3d printer
+
 The Grasshopper is a fast, cheap, toolchanger FDM 3D Printer.
 
 The main challenge of this project was fitting a toolchanger with 3 toolheads in a $300 (ish) budget
@@ -21,7 +22,4 @@ The CAD can be found here: https://a360.co/44nZdRf
 
 
 
-
-<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/af3f3292d930a672cfa2457d74d7dbd709922fc5_image.png>
-
-#### This image is of a WIP version of the printer 
+<img src=https://hc-cdn.hel1.your-objectstorage.com/s/v3/2d5017f584fdca41bb50678a4ce3619a3ecc890b_image.png>
